@@ -42,10 +42,6 @@ Bem-vindo ao repositório do Controlador de Temperatura com Arduino Mega 2560! E
 
 Contribuições são bem-vindas! Se você tiver alguma sugestão, correção de bug ou novo recurso para adicionar, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 ## Contato
 
 Se você tiver alguma dúvida ou precisar de mais informações, entre em contato:
