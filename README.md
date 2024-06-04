@@ -23,7 +23,7 @@ Bem-vindo ao repositório do Controlador de Temperatura com Arduino Mega 2560! E
 
 1. Clone este repositório em sua máquina local.
 2. Conecte o Arduino Mega 2560 ao computador via cabo USB.
-3. Abra o arquivo `controlador_temperatura.ino` no Arduino IDE.
+3. Abra o arquivo `C_digo_Fonte_Arduino.ino` no Arduino IDE.
 4. Verifique e faça o upload do código para o Arduino Mega 2560.
 5. Realize a montagem do circuito de acordo com o esquema fornecido.
 6. Conecte o sensor de temperatura e o elemento de aquecimento/refrigeração.
