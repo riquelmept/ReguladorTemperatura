@@ -17,7 +17,7 @@ Bem-vindo ao repositório do Controlador de Temperatura com Arduino Mega 2560! E
 - Sensor de temperatura (por exemplo, DS18B20).
 - Elemento de aquecimento/refrigeração (por exemplo, resistor, ventilador).
 - Display LCD para visualização dos dados.
-- Outros componentes necessários para a montagem do circuito.
+- Outros componentes necessários para a montagem do circuito como resistores, jumpers, etc.
 
 ## Instalação e Configuração
 
@@ -28,6 +28,7 @@ Bem-vindo ao repositório do Controlador de Temperatura com Arduino Mega 2560! E
 5. Realize a montagem do circuito de acordo com o esquema fornecido.
 6. Conecte o sensor de temperatura e o elemento de aquecimento/refrigeração.
 7. Ligue o Arduino Mega 2560 e aguarde a inicialização do controlador.
+8. É recomendável experiência com o manuseio de circuitos eletrônica, este repositório não inclui explicações básicas de fluxos de correntes elétrica e circuitos da eletrônica digital.
 
 ## Uso
 
